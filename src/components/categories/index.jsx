@@ -32,7 +32,7 @@ export default function Index() {
                                 </Link>
                             </div>
                             <Link to="/men" className="relative group justify-center items-center h-full w-full hidden lg:flex">
-                                <img className="object-center object-cover h-full w-full" src="https://images.unsplash.com/photo-1622497170185-5d668f816a56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1lbiUyMGZhc2hpb258ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60" alt="girl-image" />
+                                <img className="object-center object-cover h-full w-full" src="https://images.unsplash.com/photo-1555421689-43cad7100750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="girl-image" />
                                 <button className="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-400 bottom-4  absolute text-base font-medium leading-none text-gray-800 py-3 w-36 bg-white">Men</button>
                                 <div className="absolute opacity-0 group-hover:opacity-100 transition duration-500 bottom-3 py-6 z-0 px-20 w-36 bg-white bg-opacity-50" />
                             </Link>
