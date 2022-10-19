@@ -21,7 +21,7 @@ export default function Index() {
                             </Link>
                             <div className="flex flex-col space-y-4 md:space-y-8 mt-4 md:mt-0">
                                 <Link to="/shoes" className="relative group flex justify-center items-center h-full w-full">
-                                    <img className="object-center object-cover h-full w-full" src="https://i.ibb.co/SXZvYHs/irene-kredenets-DDqx-X0-7v-KE-unsplash-1.png" alt="shoe-image" />
+                                    <img className="object-center object-cover h-full w-full" src="https://images.pexels.com/photos/345415/pexels-photo-345415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="shoe-image" />
                                     <button className="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-400 bottom-4  absolute text-base font-medium leading-none text-gray-800 py-3 w-36 bg-white">Shoes</button>
                                     <div className="absolute opacity-0 group-hover:opacity-100 transition duration-500 bottom-3 py-6 z-0 px-20 w-36 bg-white bg-opacity-50" />
                                 </Link>
